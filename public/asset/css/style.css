@@ -1,0 +1,8 @@
+.bg-dark-200{
+    background: rgb(212, 209, 209);
+}
+
+.bg-parpal{
+    background: linear-gradient(to right, rgba(153, 38, 240, 0.95), rgba(209, 34, 227, 0.95));
+
+}
